@@ -3,7 +3,7 @@ package:
   version: "0.0.0"
 
 source:
-  git_url:  https://github.com/HIPS/autograd.git
+  git_url:  https://github.com/dhirschfeld/autograd.git
 
 requirements:
   build:
